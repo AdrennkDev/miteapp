@@ -130,7 +130,7 @@ function App() {
                 height="380"
               ></canvas>
 
-              <h2>Section title</h2>
+              <h2>Projects and Services</h2>
               <div className="table-responsive">
                 <table className="table table-striped table-sm">
                   <thead>

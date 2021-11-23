@@ -9,6 +9,8 @@ function App() {
     <div className="App">
       <Nav />
 
+      <Requests />
+
       <body>
         <div className="container-fluid">
           <div className="row">
@@ -261,6 +263,8 @@ function App() {
             </main>
           </div>
         </div>
+
+        <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 
         <script
           src="/docs/5.1/dist/js/bootstrap.bundle.min.js"
